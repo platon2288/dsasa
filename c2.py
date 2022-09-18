@@ -1,4 +1,4 @@
-from Lesson_1.Character import Character
+from c1 import Character
 
 class bers (Character):
     def __init__(self ,name,hp, damage, armor):
