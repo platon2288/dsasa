@@ -1,3 +1,4 @@
+import self
 from c1 import Character
 import random
 
